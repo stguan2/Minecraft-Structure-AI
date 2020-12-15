@@ -1,6 +1,7 @@
 import time
 from math import sqrt, tan, sin, cos, pi, ceil, floor, acos, atan, asin, degrees, radians, log, atan2, acos, asin
 from random import randint, choice
+from numpy import *
 from pymclevel import alphaMaterials, MCSchematic, MCLevel, BoundingBox
 
 import utilityFunctions as uf
